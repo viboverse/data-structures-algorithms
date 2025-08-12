@@ -4,7 +4,7 @@ Fill in your information first (and remove TODO statements).
 
 * **TODO: YOUR NAME** (The same as your name in Jamk's system) 
 * **TODO: YOUR COURSE CODE** (_TT00CD83-30xx_)
-* **TODO:YOUR EMAIL at Jamk**
+* **TODO: YOUR EMAIL at Jamk**
 
 Note! Remember to make the repository **Private** and give **Developer rights** to your teacher (_Juha_).
 
@@ -27,19 +27,19 @@ Always run Notebook documents before updating to the repository and check that t
 Weekly exercises are mainly done at home, and the completed exercises are pushed into a GitLab repository.  
 Weekly exercises should be **returned before the next week's lesson**.
 
-* [Weekly Exercise 1](weekly_exercises/01_exercises.md) - Week 36
-* [Weekly Exercise 2](weekly_exercises/02_exercises.md) - Week 37
-* [Weekly Exercise 3](weekly_exercises/03_exercises.md) - Week 38
-* [Weekly Exercise 4](weekly_exercises/04_exercises.md) - Week 39
-* [Weekly Exercise 5](weekly_exercises/05_exercises.md) - Week 40
-* [Weekly Exercise 6](weekly_exercises/06_exercises.md) - Week 41
+* [Weekly Exercise 1](weekly_exercises/01_weekly_exercises.md) - Week 36
+* [Weekly Exercise 2](weekly_exercises/02_weekly_exercises.md) - Week 37
+* [Weekly Exercise 3](weekly_exercises/03_weekly_exercises.md) - Week 38
+* [Weekly Exercise 4](weekly_exercises/04_weekly_exercises.md) - Week 39
+* [Weekly Exercise 5](weekly_exercises/05_weekly_exercises.md) - Week 40
+* [Weekly Exercise 6](weekly_exercises/06_weekly_exercises.md) - Week 41
 
 ### Self-assessments
 
 * Do this at the beginning of the course: [Self-assessment](self_assessments/LastnameFirstname-SelfAssessment.md)
 * And this when you completed the course: [Final Self-assessment](self_assessments/LastnameFirstname-FinalSelfAssessment.md)
 
-Rename the _MarkDown_ documents according to the instructions. Always update links to a readme file.
+Rename the _MarkDown_ documents according to the instructions. Always _update links_ to a readme file.
 
 ### Project 
 
@@ -49,7 +49,7 @@ Remember to link the project files and documentation you've developed to the REA
 
 ### Assignment monitoring by Updating Points
 
-Remember to update monitoring file whenever you update new tasks to the repository.
+Remember to update **monitoring file** whenever you update new tasks to the repository.
 
 * [Assignment monitoring](LastnameFirstname-points.md)
 

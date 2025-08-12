@@ -1,13 +1,8 @@
 # Assignment monitoring 
 
-You should monitor the progress of the assignments yourself by marking them as done and calculating the points for the individual tasks.
-* If the task has been successfully completed, mark an `X`.
-* If the task has nearly OK completed, mark an `?`. For example, if the test result slightly differs from the correct solution, then it is possible to get also 0.5p or 1-p if the error is tiny.
-* otherwise mark `-` 
+**Rename** this Markdown document in your repository and name it in the format **YourLastnameYourFirstname-points.md**.  
 
-Rename this Markdown document in your repository and name it in the format **YourLastnameYourFirstname-points.md**.  
-
-Your contact details:
+Your contact details (and remove TODO statements):
 * **TODO: YOUR NAME** (The same as your name in Jamk's system) 
 * **TODO: COURSE CODE** (_TT00CD83-30xx_)
 * **TODO:YOUR EMAIL at Jamk**
@@ -35,7 +30,11 @@ You track your absences yourself, if you cannot attend class, then you should do
 ## Assignments (max. 24p)
 
 Mark the assignments you have done.
-Usually one point per assignment if the answer is correct and the test in assignment or given model answer has not been changed.
+
+You should monitor the progress of the assignments yourself by marking them as done and calculating the points for the individual tasks.
+* If the task has been successfully completed, mark an `X`. The condition is that your answer is correct and the test in assignment has not been modified.
+* If the task has nearly OK completed, mark an `?`. For example, if the test result slightly differs from the correct solution, then it is possible to get also 0.5p or 1-p if the error is tiny.
+* otherwise mark `-`
 
 #### Assignments 1, 2 and 3
 
@@ -49,20 +48,20 @@ Usually one point per assignment if the answer is correct and the test in assign
 |:---------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:-------:|:-----:|
 | **Done**       |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |    -    | 0/8p  |
 
-The teacher gives the final score, but you have to mark your own points clearly yourself.
+Note! The teacher gives the final score, but you have to mark your own points clearly yourself.
 
 ## Weekly Exercises (max. 6p)
 
-Weekly exercises (see week number like w36 == week 36, etc.). One point if at all weekly exercises are completed. 
-If even one is done, you can mark 0.5p.
+**Weekly exercises** (see week number like w36 == week 36, etc.).
+* Mark one point (**1p**) if you complete all weekly exercises. 
+* If one of the weekly exercises has been completed, you can mark **0.5p**.
 
 | **Exercises** | 01 (w36) | 02 (w37) | 03 (w38) | 04 (w39) | 05 (w40) | 06 (w41) | total |
 |:--------------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:-----:|
 | **Done**      |    -     |    -     |    -     |    -     |    -     |    -     | 0/6p  |
 
-You show activity by doing Weekly exercises. 
-It is enough that you think the assignment has been completed almost correctly. 
-The return of assignments will be checked at random during the return phase.
+It is enough that you think the weekly exercises has been completed almost correctly. 
+The return of weekly exercises will be checked at random during the return phase.
 
 ## Final Self-assessment (max. 2p)
 
