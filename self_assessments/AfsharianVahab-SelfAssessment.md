@@ -26,7 +26,7 @@ Consider the following points in your self-assessment:
 
 In your answer, follow the following Self-Assessment Template.
 
-- **Vähab**
+- **Vahab Afsharian**
 - **ag2198@student.jamk.fi**
 
 ## 1. Introduction
