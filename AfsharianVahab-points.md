@@ -62,7 +62,7 @@ Note! The teacher gives the final score, but you have to mark your own points cl
 
 | **Exercises** | 01 (w36) | 02 (w37) | 03 (w38) | 04 (w39) | 05 (w40) | 06 (w41) | total |
 | :------------ | :------: | :------: | :------: | :------: | :------: | :------: | :---: |
-| **Done**      |    -     |    -     |    -     |    -     |    -     |    -     | 0/6p  |
+| **Done**      |    1     |    -     |    -     |    -     |    -     |    -     | 1/6p  |
 
 It is enough that you think the weekly exercises has been completed almost correctly.
 The return of weekly exercises will be checked at random during the return phase.

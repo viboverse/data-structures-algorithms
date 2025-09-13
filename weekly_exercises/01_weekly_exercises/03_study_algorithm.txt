@@ -1,0 +1,16 @@
+Algorithm StudyDSA
+Input: total_weeks, assignments_due 
+Output: (prints a weekly plan)
+
+BEGIN
+  week ← 1
+  REPEAT the following steps until week > total_weeks
+        Read lecture materials for week
+        Do weekly exercises
+        IF week ∈ assignments_due THEN
+            Work on assignment for week
+        Practice small algorithm problems
+        Review what you’ve learned
+    week ← week + 1
+  END REPEAT
+END
