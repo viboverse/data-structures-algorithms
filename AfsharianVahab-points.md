@@ -43,7 +43,7 @@ You should monitor the progress of the assignments yourself by marking them as d
 
 | **Assignment** | 1.1 | 1.2 | 1.3 | 1.4 | 2.1 | 2.2 | 2.3 | 2.4 | 3.1 | 3.2 | 3.3 | 3.4 | total |
 | :------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :---: |
-| **Done**       |  X  |  X  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  | 0/12p |
+| **Done**       |  X  |  X  |  X  |  X  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  | 0/12p |
 
 #### Assignments 4, 5 and 6
 
