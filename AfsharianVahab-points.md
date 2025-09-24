@@ -22,7 +22,7 @@ Mark your attendance here. In this course **80% attendance** is required on the 
 
 | **Attendance** | w35 | w36 | w37 | w38 | w39 | w40 | w41 | w43 | w44 | w45 | total |
 | :------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :---: |
-| **Attendance** |  X  |  X  |  X  |  -  |  -  |  -  |  -  |  -  |  -  |  -  | 3/10  |
+| **Attendance** |  X  |  X  |  X  |  X  |  -  |  -  |  -  |  -  |  -  |  -  | 4/10  |
 
 You track your absences yourself, if you cannot attend class, then you should do the weekly exercises that week.
 
@@ -43,7 +43,7 @@ You should monitor the progress of the assignments yourself by marking them as d
 
 | **Assignment** | 1.1 | 1.2 | 1.3 | 1.4 | 2.1 | 2.2 | 2.3 | 2.4 | 3.1 | 3.2 | 3.3 | 3.4 | total |
 | :------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :---: |
-| **Done**       |  X  |  X  |  X  |  X  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  | 0/12p |
+| **Done**       |  X  |  X  |  X  |  X  |  X  |  X  |  X  |  X  |  -  |  -  |  -  |  -  | 8/12p |
 
 #### Assignments 4, 5 and 6
 
@@ -62,7 +62,7 @@ Note! The teacher gives the final score, but you have to mark your own points cl
 
 | **Exercises** | 01 (w36) | 02 (w37) | 03 (w38) | 04 (w39) | 05 (w40) | 06 (w41) | total |
 | :------------ | :------: | :------: | :------: | :------: | :------: | :------: | :---: |
-| **Done**      |    1p    |    -     |    -     |    -     |    -     |    -     | 1/6p  |
+| **Done**      |    1p    |    1p    |    -     |    -     |    -     |    -     | 2/6p  |
 
 It is enough that you think the weekly exercises has been completed almost correctly.
 The return of weekly exercises will be checked at random during the return phase.
