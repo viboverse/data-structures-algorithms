@@ -22,7 +22,7 @@ Mark your attendance here. In this course **80% attendance** is required on the 
 
 | **Attendance** | w35 | w36 | w37 | w38 | w39 | w40 | w41 | w43 | w44 | w45 | total |
 | :------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :---: |
-| **Attendance** |  X  |  X  |  X  |  X  |  X  |  -  |  -  |  -  |  -  |  -  | 4/10  |
+| **Attendance** |  X  |  X  |  X  |  X  |  X  |  X  |  X  |  -  |  -  |  -  | 4/10  |
 
 You track your absences yourself, if you cannot attend class, then you should do the weekly exercises that week.
 
