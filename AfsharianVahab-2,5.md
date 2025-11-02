@@ -22,7 +22,7 @@ Mark your attendance here. In this course **80% attendance** is required on the 
 
 | **Attendance** | w35 | w36 | w37 | w38 | w39 | w40 | w41 | w43 | w44 | w45 | total |
 | :------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :---: |
-| **Attendance** |  X  |  X  |  X  |  X  |  X  |  X  |  X  |  X  |  -  |  -  | 4/10  |
+| **Attendance** |  X  |  X  |  X  |  X  |  X  |  X  |  X  |  X  |  -  |  -  | 8/10  |
 
 You track your absences yourself, if you cannot attend class, then you should do the weekly exercises that week.
 
@@ -49,7 +49,7 @@ You should monitor the progress of the assignments yourself by marking them as d
 
 | **Assignment** | 4.1 | 4.2 | 4.3 | 4.4 | 5.1 | 5.2 | 5.3 | 5.4 | 6.1 | 6.2 | 6.3(2p) | total |
 | :------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-----: | :---: |
-| **Done**       |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |    -    | 0/8p  |
+| **Done**       |  X  |  X  |  X  |  X  |  -  |  -  |  -  |  -  |  -  |  -  |    -    | 4/8p  |
 
 Note! The teacher gives the final score, but you have to mark your own points clearly yourself.
 
